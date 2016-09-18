@@ -1,0 +1,9 @@
+D:\dxapp\OriEditor\OriEditor\OriEditor\bin\Debug\OriEditor.exe.config
+D:\dxapp\OriEditor\OriEditor\OriEditor\bin\Debug\OriEditor.exe
+D:\dxapp\OriEditor\OriEditor\OriEditor\bin\Debug\OriEditor.pdb
+D:\dxapp\OriEditor\OriEditor\OriEditor\obj\Debug\OriEditor.csprojResolveAssemblyReference.cache
+D:\dxapp\OriEditor\OriEditor\OriEditor\obj\Debug\OriEditor.Form1.resources
+D:\dxapp\OriEditor\OriEditor\OriEditor\obj\Debug\OriEditor.Properties.Resources.resources
+D:\dxapp\OriEditor\OriEditor\OriEditor\obj\Debug\OriEditor.csproj.GenerateResource.Cache
+D:\dxapp\OriEditor\OriEditor\OriEditor\obj\Debug\OriEditor.exe
+D:\dxapp\OriEditor\OriEditor\OriEditor\obj\Debug\OriEditor.pdb

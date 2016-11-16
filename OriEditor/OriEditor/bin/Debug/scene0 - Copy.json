@@ -1,0 +1,17 @@
+[ 
+     {"name":"Main Camera", "type":"T", "components":[ {"className":"Transform", "fields":{"position":"0,3.3,-10", "rotation":"15.29,0,0", "scale":"1,1,1"}}, {"className":"Camera", "fields":{"fieldOfView":"60", "nearPlane":"0.3", "farPlane":"1000"}}, {"className":"InputManager"} ]}, 
+     
+     {"name":"Cube", "type":"T", "components":[ {"className":"Transform", "fields":{"position":"-0.122,0.263,0", "rotation":"0,0,24.91", "scale":"1,1,1"}}, {"className":"Cube"} ]}, 
+     
+     {"name":"Cube", "type":"T", "components":[ {"className":"Transform", "fields":{"position":"3.55,1.32,0", "rotation":"0,0,0", "scale":"1,1,1"}}, {"className":"Cube"} ]}, 
+     
+     {"name":"Cube", "type":"T", "components":[ {"className":"Transform", "fields":{"position":"-2.6,1.91,-1.87654", "rotation":"0,0,0", "scale":"1,1,1"}}, {"className":"Cube"} ]}, 
+     
+     {"name":"Ground", "type":"T", "components":[ {"className":"Transform", "fields":{"position":"-2.6,-0.63,-1.88", "rotation":"0,0,0", "scale":"30,0.01,30"}}, {"className":"Cube"} ]}, 
+     
+     {"name":"Point light", "type":"T", "components":[ {"className":"Transform", "fields":{"position":"-0.37,16.51,-1.27", "rotation":"68.3,0,0", "scale":"1,1,1"}}, {"className":"Light"} ]}, 
+     
+     {"name":"Rect Root", "type":"R", "components":[ {"className":"RectTransform", "fields":{"position":"0,0", "size":"0.25,0.25"}}, {"className":"RawImage"} ]} ,
+	 
+	 {"name":"TestSprite", "type":"R", "components":[ {"className":"RectTransform", "fields":{"position":"0,0", "size":"0.25,0.25"}}, {"className":"RawImage"} ]}
+]

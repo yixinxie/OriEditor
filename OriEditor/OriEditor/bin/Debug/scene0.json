@@ -11,5 +11,7 @@
      
      {"guid":"5", "parent":"-1", "name":"Point light", "type":"T", "components":[ {"className":"Transform", "fields":{"position":"-0.37,16.51,-1.27", "rotation":"68.3,0,0", "scale":"1,1,1"}}, {"className":"Light"} ]}, 
      
+     {"guid":"6", "parent":"-1", "name":"Rect Root", "type":"R", "components":[ {"className":"RectTransform", "fields":{"tmppos":"0,0", "tmpsize":"1, 0.2", "pivot":"0,0", "anchorMin":"0", "anchorMax":"10", "offsetMin":"0,0", "offsetMax":"0,0"}}, {"className":"RawImage"} ]} ,
 	 
+	 {"guid":"7", "parent":"6", "name":"TestSprite", "type":"R", "components":[ {"className":"RectTransform", "fields":{"tmppos":"0.99,0.99", "tmpsize":"0.02, 0.02","pivot":"0,0", "anchorMin":"0", "anchorMax":"10", "offsetMin":"50,100", "offsetMax":"-100,-200"}}, {"className":"RawImage"} ]}
 ]
